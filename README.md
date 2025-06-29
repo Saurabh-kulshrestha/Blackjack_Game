@@ -28,16 +28,6 @@ Play against the computer (dealer) and test your luck and strategy with real-tim
 
 ---
 
-## 📂 Project Structure
-
-├── black.py          # Main Python script containing the full game logic
-├── logo.py           # ASCII art logo displayed when the game starts
-├── screenshot.png    # Screenshot showing the game's execution in the terminal
-└── README.md         # Complete documentation of the Blackjack game project
-
-
----
-
 ## 🖥️ Sample Gameplay
 
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
@@ -52,26 +42,3 @@ Computer's final hand: [10, 7], final score: 17
 You have the higher score! You win! 🏆
 
 ---
-
-## 🚀 How to Run
-
-### Requirements:
-- Python 3.x
-
-### Steps:
-```bash
-git clone https://github.com/your-username/blackjack-game.git
-cd blackjack-game
-python black.py
-```
-
-💡 What I Learned
-Working with lists and random selection in Python
-
-Implementing game logic with multiple conditional branches
-
-Handling invalid inputs and making the game more user-friendly
-
-Simulating real-world card mechanics in a text environment
-
-
