@@ -29,11 +29,12 @@ Play against the computer (dealer) and test your luck and strategy with real-tim
 ---
 
 ## 📂 Project Structure
-blackjack/
-├── black.py           # 🔹 Main Python file containing all game logic
-├── logo.py            # 🎨 Contains ASCII art logo used at the beginning of the game
-├── screenshot.png     # 🖼️ A screenshot showing game execution in the terminal
-└── README.md          # 📄 Complete project documentation with rules and usage guide
+
+├── black.py          # Main Python script containing the full game logic
+├── logo.py           # ASCII art logo displayed when the game starts
+├── screenshot.png    # Screenshot showing the game's execution in the terminal
+└── README.md         # Complete documentation of the Blackjack game project
+
 
 ---
 
@@ -62,6 +63,7 @@ You have the higher score! You win! 🏆
 git clone https://github.com/your-username/blackjack-game.git
 cd blackjack-game
 python black.py
+```
 
 💡 What I Learned
 Working with lists and random selection in Python
