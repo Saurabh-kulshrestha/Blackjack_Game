@@ -30,10 +30,10 @@ Play against the computer (dealer) and test your luck and strategy with real-tim
 
 ## 📂 Project Structure
 blackjack/
-├── black.py # Main game logic and functions
-├── logo.py # Contains the ASCII Blackjack logo
-├── screenshot.png # Sample game output in terminal
-└── README.md # Project documentation
+├── black.py           # 🔹 Main Python file containing all game logic
+├── logo.py            # 🎨 Contains ASCII art logo used at the beginning of the game
+├── screenshot.png     # 🖼️ A screenshot showing game execution in the terminal
+└── README.md          # 📄 Complete project documentation with rules and usage guide
 
 ---
 
